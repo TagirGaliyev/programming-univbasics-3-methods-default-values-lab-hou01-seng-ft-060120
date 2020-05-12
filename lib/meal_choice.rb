@@ -7,6 +7,3 @@ def meal_choice(veg1, veg2, protein = "tofu")
   puts message
   return message
 end
-
-meal = meal_choice("broccoli", "macaroni", "roast beef")
-puts meal
